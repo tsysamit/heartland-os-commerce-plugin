@@ -1,7 +1,7 @@
 <?php
-define('MODULE_PAYMENT_SECURESUBMIT_TEXT_TITLE', 'SecureSubmit (Heartland Payment Systems)');
-define('MODULE_PAYMENT_SECURESUBMIT_TEXT_PUBLIC_TITLE', 'SecureSubmit (Heartland Payment Systems)');
-define('MODULE_PAYMENT_SECURESUBMIT_TEXT_DESCRIPTION', '<img src="images/icon_popup.gif" border="0">&nbsp;<a href="https://developer.heartlandpaymentsystems.com/SecureSubmit/" target="_blank" style="text-decoration: underline; font-weight: bold;">Visit Heartland Payment Systems Website</a>');
+define('MODULE_PAYMENT_SECURESUBMIT_TEXT_TITLE', 'SecureSubmit (Global Payments)');
+define('MODULE_PAYMENT_SECURESUBMIT_TEXT_PUBLIC_TITLE', 'SecureSubmit (Global Payments)');
+define('MODULE_PAYMENT_SECURESUBMIT_TEXT_DESCRIPTION', '<img src="images/icon_popup.gif" border="0">&nbsp;<a href="https://developer.globalpay.com" target="_blank" style="text-decoration: underline; font-weight: bold;">Visit Global Payments Website</a>');
 define('MODULE_PAYMENT_SECURESUBMIT_CREDIT_CARD_NUMBER', 'Credit Card Number:');
 define('MODULE_PAYMENT_SECURESUBMIT_CREDIT_CARD_EXPIRES', 'Credit Card Expiry Date:');
 define('MODULE_PAYMENT_SECURESUBMIT_CREDIT_CARD_CVC', 'Credit Card Check Number (CVC):');

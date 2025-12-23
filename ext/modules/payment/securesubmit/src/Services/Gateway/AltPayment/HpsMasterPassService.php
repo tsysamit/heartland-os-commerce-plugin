@@ -5,20 +5,20 @@
  * PHP Version 5.2+
  *
  * @category PHP
- * @package  HPS
- * @author   Heartland Payment Systems <EntApp_DevPortal@e-hps.com>
- * @license  https://github.com/hps/heartland-php/blob/master/LICENSE.txt Custom
- * @link     https://github.com/hps/heartland-php
+ * @package  GP
+ * @author   Global Payments <developersupport@globalpay.com>
+ * @license  https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
+ * @link     https://github.com/globalpayments/php-sdk
  */
 
 /**
  * MasterPass using Cardinal Commerce
  *
  * @category PHP
- * @package  HPS
- * @author   Heartland Payment Systems <EntApp_DevPortal@e-hps.com>
- * @license  https://github.com/hps/heartland-php/blob/master/LICENSE.txt Custom
- * @link     https://github.com/hps/heartland-php
+ * @package  GP
+ * @author   Global Payments <developersupport@globalpay.com>
+ * @license  https://github.com/globalpayments/php-sdk/blob/master/LICENSE.md
+ * @link     https://github.com/globalpayments/php-sdk
  */
 class HpsMasterPassService
     extends HpsCentinelGatewayService

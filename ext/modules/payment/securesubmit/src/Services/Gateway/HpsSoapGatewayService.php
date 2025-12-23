@@ -386,7 +386,6 @@ class HpsSoapGatewayService extends HpsGatewayServiceAbstract implements HpsGate
         return $secureEcommerce;
     }
  /*
-  * @link https://github.com/hps/heartland-php/pull/21
   * @description resolves a recursion issue identified in the link above
   */
     /**

@@ -217,7 +217,7 @@ class securesubmit
                 // we can skip the card saving: if it fails for possible fraud there will be no token.
                 if ($this->email_suspicious && $this->email_suspicious_address != '') {
                     $this->sendEmail(
-                        $this->email_suspicious_address, $this->email_suspicious_address, 'Suspicious order allowed (' . $order_id . ')', 'Hello,<br><br>Heartland has determined that you should review order ' . $order_id .
+                        $this->email_suspicious_address, $this->email_suspicious_address, 'Suspicious order allowed (' . $order_id . ')', 'Hello,<br><br>Global Payments has determined that you should review order ' . $order_id .
                         ' for the amount of ' . substr($this->format_raw($order->info['total']), 0, 15) . '.'
                     );
                 }
