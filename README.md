@@ -1,14 +1,14 @@
 # ** This repository is no longer maintained! **
 Our current Global Payments Plugin can be found <a href="https://github.com/globalpayments" target="_blank">here</a>
 
-## SecureSubmit OpenCart Payment Gateway
+## SecureSubmit Oscommerce Payment Gateway
 
-This extension allows OpenCart to use the Global Payments Gateway. All card data is tokenized using Global Payments SecureSubmit product.
+This extension allows Oscommerce to use the Global Payments Gateway. All card data is tokenized using Global Payments SecureSubmit product.
 
 ## Installation
 
 ## Usage
-Download the contents and extract to the root of your OpenCart install folder.
+Download the contents and extract to the root of your Oscommerce install folder.
 
 ## Contributing
 
