@@ -385,9 +385,7 @@ class HpsSoapGatewayService extends HpsGatewayServiceAbstract implements HpsGate
 
         return $secureEcommerce;
     }
- /*
-  * @description resolves a recursion issue identified in the link above
-  */
+
     /**
      * @param              $token
      * @param \DOMDocument $xml
